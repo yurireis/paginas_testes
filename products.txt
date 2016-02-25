@@ -1,0 +1,16 @@
+1
+Economy Toyota Yaris
+car1.jpg
+toyota.JPG
+2
+Mini Nissan Micra
+car2.jpg
+nissan.jpg
+3
+Economy Nissan
+car3.jpg
+economy.jpg
+4
+Compact Nissan
+car4.jpg
+compact.jpg

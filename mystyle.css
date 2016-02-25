@@ -1,0 +1,40 @@
+
+div {
+	margin:0 auto;
+	text-align:center;
+	width:950px;}
+#masthead {
+	font-size:22px;
+	border:1px;
+	background-color:#C91010;}
+#navigation {background-color:#DE3C3C;
+			border:1px;}
+	a:link { color: black; }
+	#content a:link { color: blue; }
+	a:visited { color: black; }
+	a:hover { color:gray; }
+	a:active { color:gray; }
+#checkout{
+	background-color:#FFFFCC;
+	text-align:left;
+	padding-bottom:150px;
+}
+#content{
+	text-align:center;
+	background-color:#FFFFCC;
+	padding-top:150px;
+	padding-bottom:150px;}
+span{font-size:20px;}
+h2{font-size:20px;}
+table{
+	border:0;
+	margin:0 auto;}
+h2{font-style:italic;}
+body {
+	background-image:url('background.jpg');
+	font:15px "Century Gothic";}
+#footer{
+  background-color:#DE3C3C;
+  font-size: 14px;}
+
+	
